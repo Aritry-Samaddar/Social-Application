@@ -1,2 +1,3 @@
 # Social-Application
-This is a social media application which helps you to write down your thoughts and also gives you an opportunity to see what others think.
+This is a social media application where you can post anything(any writing or text) of your choice and also you can react to other people's
+post. It needs you to sign in to the application with your email id.
